@@ -138,7 +138,7 @@ This implementation draws from cutting-edge research:
 
 ### Primary Inspirations
 
-**1. Liu & Ma (2019)** - *"Exploring Background-bias for Anomaly Detection in Surveillance Videos"*
+**1. Kun Liu & Huadong Ma (2019)** - *"Exploring Background-bias for Anomaly Detection in Surveillance Videos"*
 -  **Key Insight**: Models learn background patterns instead of anomalies
 -  **My Solution**: Multi-head spatial attention explicitly focuses on anomalous regions
 
